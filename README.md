@@ -1,4 +1,4 @@
-# Desafio Banco de dados do Ecommerce refinado | Treinamento DIO
+# Criação de banco de dados do Ecommerce refinado | 💡💡💡
 
 Esse banco de dados contém 15 tabelas: clientpayment, clients, delivery, orders, paymenttype, pessoafísica, pessoajuridica, product, productorder, productseller, productstorage, productsupplier, seller, storagelocation e supplier. Todas com suas PKs e FKs para formar os relacionamentose com inserção de dados. 
 
